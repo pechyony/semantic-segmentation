@@ -11,12 +11,12 @@ Project 1 of term 3 of Udacity self-driving car nanodegree
     4.2 [Architecture](#architecture)  
 
     * [Encoder](#encoder)  
-    * [1x1 Convolutions](#1x1_convolutions)  
+    * [1x1 Convolutions](#1x1-convolutions)  
     * [Decoder](#decoder) 
 
     4.3 [Training](#training)  
     4.4 [Scoring](#scoring)  
-    4.5 [Samples of scored test images](#samples_of_scored_test_images)
+    4.5 [Samples of scored test images](#samples-of-scored-test-images)
 
 ## Setup
 

@@ -32,6 +32,7 @@ Follow instructions [here](https://github.com/udacity/CarND-Semantic-Segmentatio
 * helper.py - auxiliary functions
 * project_tests.py - unit testing functions
 * training_log.txt - log file of the training process
+* architecture.png - architecture diagram
 * scoring_results - folder of segmented test images
 * training_samples - folder of the sample training images
 

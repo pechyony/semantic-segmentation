@@ -2,7 +2,7 @@
 
 Project 1 of term 3 of Udacity self-driving car nanodegree
 
-## Contents
+## Table of Contents
 1. [Setup](#setup)  
 2. [Usage](#usage) 
 3. [Files](#files)
